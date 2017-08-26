@@ -14,7 +14,7 @@ Al contar con la instalacion de node procederemos a la creación del manifiesto 
 
 despues de crear el manifiesto se incia la instalcion de las dependencias las cuales se dividen en.
 
-#### Dependencias de Producción 
+#### Dependencias de Producción
 
 **`npm i -S react react-dom react-router`**
 
@@ -28,10 +28,9 @@ despues de crear el manifiesto se incia la instalcion de las dependencias las cu
 
 ---
 
-> **Nota** : _en el caso de querer instalar todas las librerias necesarias para esta aplicacion, se podria ejecutar simplemente el comando ._
->
-> **`npm install  
-> `**_esto descargara los paquetes necesarios para nuestra aplicacion._
+> **Nota** : _en el caso de querer instalar todas las librerias necesarias para esta aplicacion, se podria ejecutar simplemente el comando .  
+> _**`npm install`**  
+> _esto descargara los paquetes necesarios para nuestra aplicacion._
 
 
 
