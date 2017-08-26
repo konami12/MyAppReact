@@ -1,0 +1,20 @@
+{
+  "name": "my-app-react",
+  "version": "1.0.0",
+  "description": "jugando con react y redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@konami:konami12/MyAppReact.git"
+  },
+  "keywords": [
+    "react",
+    "taller",
+    "node"
+  ],
+  "author": "jmendez",
+  "license": "ISC"
+}
