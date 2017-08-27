@@ -1,0 +1,14 @@
+{
+	"es" : {
+			"load" : "Cargando datos . . . . . ",
+			"home" : "Pagina principal",
+			"total" : "{numero} articulos",
+			"header" : "Mi primera app en REACT" 
+		   }, 
+	"en" : {
+			"load" : "Loading data . . . . .",
+			"home" : "Home page",
+			"total" : "{numero} post",
+			"header" : "My frist app in react"
+	       }
+}

@@ -1,0 +1,18 @@
+
+.comentario
+{
+	width: 90%;
+    margin: auto;
+    margin-bottom: 10px;
+    border: 1px solid ;
+    border-radius: 10px;
+    box-shadow: 0 0 0.5em black;
+    padding: 1em;
+    background-color: rgb(39,40,34);
+    color:white;
+}
+
+.comentario:hover
+{
+	color:rgb(166,226,46);
+}
