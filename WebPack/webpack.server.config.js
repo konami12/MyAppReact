@@ -9,12 +9,12 @@ module.exports = {
 								path     : PATH.resolve(__dirname, '../built/server')
 							 },
 					module : {
-                        rules : [
+                        /*rules : [
                             {
                                 test :/\.jsx?$/,
                                 loader : "eslint-loader"
                             }
-                        ],
+                        ],*/
 								//Opciones para la carga de archivos y configuraciones.
 								loaders : [
 											{
